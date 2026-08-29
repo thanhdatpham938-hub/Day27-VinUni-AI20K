@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2026-08-29T09:00:00",
+    "agent_id": "churn-risk-agent",
+    "action": "increase_credit_limit",
+    "confidence": 0.94,
+    "reviewer_id": "operator_01",
+    "decision": "approve",
+    "customer_id": "CUST001"
+  },
+  {
+    "timestamp": "2026-08-29T09:15:30",
+    "agent_id": "churn-risk-agent",
+    "action": "send_email",
+    "confidence": 0.92,
+    "reviewer_id": "SYSTEM_AUTO",
+    "decision": "auto_approved",
+    "customer_id": "CUST002"
+  },
+  {
+    "timestamp": "2026-08-29T22:58:02",
+    "agent_id": "churn-risk-agent",
+    "action": "increase_credit_limit",
+    "confidence": 0.96,
+    "reviewer_id": "manager_hung",
+    "decision": "APPROVE",
+    "customer_id": "CUST-VIP-01"
+  },
+  {
+    "timestamp": "2026-08-29T22:58:02",
+    "agent_id": "churn-risk-agent",
+    "action": "send_email",
+    "confidence": 0.92,
+    "reviewer_id": "SYSTEM_AUTO",
+    "decision": "auto_approved",
+    "customer_id": "CUST-STABLE-02"
+  },
+  {
+    "timestamp": "2026-08-29T22:59:03",
+    "agent_id": "churn-risk-agent",
+    "action": "increase_credit_limit",
+    "confidence": 0.96,
+    "reviewer_id": "operator_01",
+    "decision": "approve",
+    "customer_id": "CUST-VIP-01"
+  },
+  {
+    "timestamp": "2026-08-29T22:59:03",
+    "agent_id": "churn-risk-agent",
+    "action": "send_email",
+    "confidence": 0.92,
+    "reviewer_id": "SYSTEM_AUTO",
+    "decision": "auto_approved",
+    "customer_id": "CUST-STABLE-02"
+  },
+  {
+    "timestamp": "2026-08-29T23:00:37",
+    "agent_id": "churn-risk-agent",
+    "action": "increase_credit_limit",
+    "confidence": 0.96,
+    "reviewer_id": "operator_01",
+    "decision": "approve",
+    "customer_id": "CUST001"
+  }
+]
